@@ -121,3 +121,8 @@ b=b-alpha*db
 真正的python代码请见此地址下的其他代码文件。
 
 拜拜！
+
+
+***
+更新一张训练图片分类器的情况!
+[](https://i.imgur.com/YfNu9XU.png)
